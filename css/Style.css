@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Roboto+Slab&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+body {
+	background-color: #eba2a6;
+	font-size: 16px;
+	font-weight: 300;
+	margin: 0px;
+}
+h1 {
+	color:#FFFFFF;
+	font-size: 150px;
+	font-family : 'Montserrat', sans-serif ;
+}
+h2 {
+	color: #cf1515;
+	font-size: 25px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+h3 {
+	color: #cf1515;
+	font-size: 25px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+a {
+  text-decoration: none;
+}
